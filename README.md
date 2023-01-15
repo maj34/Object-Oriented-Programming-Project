@@ -25,8 +25,8 @@ Object-Oriented-Programming-Project
 
 ## 4. 프로젝트 소개
 
-<img src='https://user-images.githubusercontent.com/75362328/212558429-f7232427-8e0f-4a1e-b793-14988cb3611f.png' width='100%' height='80%'>
 <img src='https://user-images.githubusercontent.com/75362328/212558460-a1f1c572-af3e-4165-930d-ef3a2fdc1f9a.png' width='100%' height='80%'>
+<img src='https://user-images.githubusercontent.com/75362328/212558429-f7232427-8e0f-4a1e-b793-14988cb3611f.png' width='100%' height='80%'>
 
 &nbsp;&nbsp;&nbsp;&nbsp; ‘**대학생 키우기**’에는 각각의 특색을 가진 ‘마 씨’, ‘윤 씨’, ‘한 씨’ 3명의 대학생이 존재한다. 게임 시작 시 이들의 특성을 나타내는 메시지가 뜨며 이 중 한 명을 선택하여 **경험치(exp)를 쌓아가며 1학년부터 4학년까지 진급**을 시켜야 한다. 대학생들은 진짜 사람처럼 **체력(energy)이 존재**하고 체력이 다 떨어지면 게임 오버가 되기 때문에 사용자는 각 캐릭터의 특성을 잘 파악하여 선택지를 골라야 한다. 각 학년이 끝날 때마다 **진급(level) 퀴즈**를 보는데, 실패 시에는 유급되어 해당 학년을 다시 진행해야 한다. 최종적으로는 **4학년까지 대학생을 진급시킨 뒤 졸업시키는 것이 목표**이다. 중간에 에너지가 다 닳거나 졸업했을 경우 게임이 종료된다.
 
